@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 from extract import extract_text
 from embeddings import create_embeddings
 from store import store_embeddings
-from qa import search_qa
+# from qa import search_qa
 from chat import chat_with_pdf
 
 # Start of streamlit application
