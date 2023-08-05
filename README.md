@@ -48,5 +48,6 @@ Let's breakdown the working of the app into chunks to make it easier to understa
 - We then run the Weaviate hybrid search on the schema, using Langchain and OpenAI that will return the closest match
 
 ### Display the results in a Chatbot (Interface)
-<img width="1160" alt="Screenshot 2023-07-07 at 7 43 16 PM" src="https://user-images.githubusercontent.com/81156510/251796821-7a70be46-5291-457e-9314-6bf237f5eacc.png">
+<img width="1160" alt="Screenshot 2023-07-07 at 7 43 16 PM" src="![image](https://github.com/LLM-Projects/docs-qa-bot/assets/29293526/3f270c7d-4e24-4622-919e-34f2cff9072c)
+">
 - Finally we display the results as a chat like interface provided by Streamlit
